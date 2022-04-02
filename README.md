@@ -8,7 +8,9 @@ needs. Using the command “sudo pip3 install <library name>” if you have pyth
 install <library name>” if you have python language in the new machine.
 
 List of libraries needed:
-  python-nmap, argparse, datetime, sys, ipaddress, colorama
+  
+python-nmap, argparse, datetime, sys, ipaddress, colorama
   
 Example:
-  sudo pip3 install python-nmap
+  
+sudo pip3 install python-nmap
