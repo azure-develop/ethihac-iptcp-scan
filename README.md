@@ -1,6 +1,8 @@
 # ethihac-iptcp-scan
-A tool that will show the results of ICMP scanning, different types of TCP scans, and make the output visually interesting.
+ETHIHAC machine project
 
+
+A tool that will show the results of ICMP scanning, different types of TCP scans, and make the output visually interesting.
 To install the tool on a new machine, make a copy of the file “henmap.py” and store it somewhere like a
 flash drive or email it. Download the new file in the new machine and move it to the directory you want
 the tool to be in. Before using the too, make sure to install all the python library (dependencies) the tool
